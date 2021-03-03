@@ -1,11 +1,14 @@
-# Bem vindo ao RepositÛrio
+# Bem vindo ao Reposit√≥rio
 ## Estou aprendendo a trabalhar com o Github
-### O progessor vai me deixar louco/louca
+### O professor vai me deixar louco/louca
 
-* Isto È uma lista
+* Isto √© uma lista
 	+ Primeiro item de uma lista
-	+ Segundo item *em it·lico*
+	+ Segundo item *em it√°lico*
 	+ Terceiro item em **negrito**
-	    + Novo subnÌvel
+	    + Novo subn√≠vel
 
 [Link] (http://www.uninove.br)
+
+* links de apoio
+	+[Link] (http://www.uninove.br)
